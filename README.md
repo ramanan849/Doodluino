@@ -1,6 +1,6 @@
 # Doodluino
-Doodluino - Doodle Jump on Arduino (Digital Electronics Project)
----
+(Doodluino - Doodle Jump on Arduino - PH222, Spring '25 Digital Electronics Project)
+-
 Gokularamanan R S, 23B1854
 -
 [Project Report](https://github.com/ramanan849/Doodluino/blob/b796de5456497a73b1f6233cb64882a1899941b5/23B1854_Gokularamanan_Doodluino.pdf)
